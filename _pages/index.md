@@ -5,15 +5,14 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Terras paralelas 🌍🌎🌏
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Este é o jardim digital dedicado ao <span style="font-weight: bold">[[Projeto Multiversos]]</span>, de Márcio Moreira, doutorando em Comunicação pela UFC.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Este template de jardim digital é gratuito, open-source, e [disponível no GitHub aqui](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <style>
   .wrapper {

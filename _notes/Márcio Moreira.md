@@ -1,12 +1,6 @@
----
-layout: page
-title: Márcio Moreira
-permalink: /sobre
----
-
 Márcio Moreira é escritor e pesquisador de histórias em quadrinhos em Fortaleza, CE. 
 
-Suas principais áreas de interesse são Narrativa e linguagem em HQs, Estudos de Cultura e Teorias da Imagem. Desde 2019, faz parte do grupo de pesquisa [Oficina Invisível de Investigação em Quadrinhos](http://dgp.cnpq.br/dgp/espelhogrupo/9799805351770349).
+Suas principais áreas de interesse são Narrativa e linguagem em HQs, Estudos de Cultura e Teorias da Imagem. Desde 2019, faz parte do grupo de pesquisa Oficina Invisível de Investigação em Quadrinhos.
 
 Ministrou aulas de escrita e roteiro na Oficina de Quadrinhos da UFC, Biblioteca do Estado do Ceará, Porto Iracema das Artes e onde mais lhe oferecessem merenda.
 

@@ -14,7 +14,7 @@ permalink: /
 Notas serão categorizadas segundo seu desenvolvimento epistemológico: #sementes são ideias em formação, #brotos são ensaios conceituais e #árvores são textos como aparecem na tese. 
 
 ___
-*Mundos Paralelos é um projeto desenvolvido sem apoio financeiro. Caso queira contribuir, aceitamos pix de qualquer valor para marciomoreirasf@gmail.com.*
+*Quer contribuir com o projeto? Envie um pix de qualquer valor para marciomoreirasf@gmail.com.*
 
 Este template é gratuito, open-source, e está [disponível no GitHub](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 

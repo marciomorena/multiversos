@@ -1,0 +1,13 @@
+#semente
+
+Retirado do projeto de pesquisa:
+
+O conceito de Multiverso surgiu em histórias de super-heróis pela primeira vez em 1961 na edição 123 da revista _The Flash,_ da DC Comics (PROCTOR, 2017). Na história intitulada _Flash de dois mundos_, Barry Allen viaja para outra realidade e encontra Jay Garrick, o Flash, personagem dos quadrinhos que Barry lera na infância e que havia inspirado sua decisão de criar a persona do Velocista Escarlate. Porém, Jay está agora em sua meia-idade e casado com a namorada dos quadrinhos. Diante do enigma interdimensional, Barry teoriza:
+
+>Da maneira que vejo, eu vibrei tão rápido... que rasguei uma brecha nas barreiras vibratórias separando nossos mundos! Como você sabe, dois objetos podem ocupar o mesmo espaço e tempo, se vibrarem em velocidades diferentes! Minha teoria é que ambas as Terras foram criadas ao mesmo tempo em dois Universos semelhantes! Eles vibram distintamente, o que os mantém separados! A vida, os costumes- mesmo as linguagens- desenvolveram-se em sua Terra quase exatamente como na minha![^1] (FOX; INFANTINO, 1961, p.8-9)
+
+O fato é que Jay Garrick não era apenas um personagem fictício nas histórias de Barry, mas o Flash original. Criado em 1940 por Gardner Fox e Harry Lampert, Jay (conhecido no Brasil como Joel Ciclone) foi um dos primeiros super-heróis na chamada Era de Ouro. Com o declínio do gênero após a Segunda Guerra, o personagem desapareceu, mas seu título foi reformulado e republicado em 1956, com uma nova origem, um novo uniforme e um novo nome, Barry Allen. No mundo de Allen, Jay nunca existiu como uma pessoa real, apenas um "personagem inventado por algum escritor"[^1] (FOX; INFANTINO, 1956).
+
+Porém, o que _O Flash de dois mundos_ estabelece é que os dois Flashes existiam ao mesmo tempo, cada um em seu próprio universo. A realidade diegética única dava lugar à sobreposição de diferentes mundos, o multiverso. O passado editorial da DC Comics era alterado à medida que versões pré-Segunda Guerra de seus personagens (Lanterna Verde e Super-Homem, por exemplo), deixavam de ser predecessores e se tornavam _versões alternativas_ dos super-heróis publicados na década de 1960, habitantes da *Terra 2*.
+
+ [^1]:The way I see it, I vibrated so fast-- I tore a gap in the vibratory shields separating our worlds! As you know-- two objects can occupy the same space and time-- if they vibrate at different speeds! My theory is, both Earths were created at the same time in two quite similar universes! They vibrate differently-- which keeps them apart! Life, customs... even languages-- evolved on your Earth almost exactly as they did on my Earth!

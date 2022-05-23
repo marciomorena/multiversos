@@ -6,7 +6,7 @@ Heinze leva o mesmo raciocínio para franquias narrativas. Seu objeto é univers
 
 >What characterizes a transmedial world is that audience and designers share a mental image of the “worldness” (a number of distinguishing features of its universe). The idea of a specific world’s worldness mostly originates from the first version of the world presented, but can be elaborated and changed over time. (KLASTRUP, TOSCA apud HEINZE, 2015)
 
-
+Franquias como quadrinhos se constroem ao longo do tempo pelo acúmulo de *storyworlds*. A complexidade resulta em narrativas que não se unem pela coerência, mas pelo senso de *worldness* mantido  
 
 HEINZE, Rüdiger. “This Makes No Sense At All”: Heterarchy in Fictional Universes. in: Storyworlds: A Journal of Narrative Studies, Vol. 7, No. 2, Transmedial Worlds in Convergent Media Culture. University of Nebraska Press, 2015, pp. 75-91.
 

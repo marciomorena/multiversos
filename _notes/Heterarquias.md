@@ -8,7 +8,11 @@ Heinze leva o mesmo raciocínio para franquias narrativas. Seu objeto é univers
 
 Franquias como quadrinhos se constroem ao longo do tempo pelo acúmulo de *storyworlds*. A complexidade resulta em narrativas que não se unem pela coerência, mas pelo senso de *worldness* mantido por elementos como design, construção de marca ou reinterações da [[Cronologia]] (remakes, guias, etc). 
 
-Mesmo que se mantenha uma cronologia oficial, é impossível controlar qual será o ponto de acesso do consumidor ao universo ficcional. Pode-se começar do primeiro filme de uma franquia ou do penúltimo - e cada um de
+Mesmo que se mantenha uma cronologia oficial, é impossível controlar qual será o ponto de acesso do consumidor ao universo ficcional. Pode-se começar do primeiro filme de uma franquia ou do penúltimo, ou saltar entre edições de um quadrinho - e cada um deve prover pistas contextuais para a compreensão da narrativa global. 
+
+A hierarquia da narrativa linear dá lugar, então à heterarquia, a relation of elements to one another when they are unranked or when they possess the potential for being ranked in a number of different ways” (CRUMLEY apud HEINZE, 2015, p. 84).
+
+**Cada novo elemento constitutivo afeta o universo ficcional e sua ordem heterárquica tanto de maneira objetiva (global) quanto em relação ao receptor e seu engajamento prévio com aquele universo**
 
 HEINZE, Rüdiger. “This Makes No Sense At All”: Heterarchy in Fictional Universes. in: Storyworlds: A Journal of Narrative Studies, Vol. 7, No. 2, Transmedial Worlds in Convergent Media Culture. University of Nebraska Press, 2015, pp. 75-91.
 

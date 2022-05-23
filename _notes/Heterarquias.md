@@ -16,9 +16,11 @@ Heinze propõe ainda a diferença entre uma heterarquia global teórica, referen
 
 >Its heterarchy, however, needs to be conceived diachronically as well, principally because heterarchy as a concept by definition entails temporality and change, and concretely, because the fictional universes of franchises come into existence and are consecutively expanded bit by bit with every new storyworld that situates itself in this universe. As a result, with every new storyworld the question of the “value” of each constituent of the fictional universe— not only of the latest addition— as well as the heterarchical constellation of the entire universe arises anew. Several elements factor into this, perhaps the most important being the “bargaining power” or “cultural capital” of the medium in which the most recent storyworld is realized (HEINZE, 2015, p.85)
 
-Semelhante à [[Constelação]] de Benjamin, a heterarquia depende tanto das seleções sintagmáticas e paradigmáticas e constelações de *storyworlds* quanto da pessoa que o "monta" como seu próprio universo ficcional.
+Semelhante à [[Constelação (Benjamin)]], a heterarquia é uma prática focada no leitordepende tanto das seleções sintagmáticas e paradigmáticas e constelações de *storyworlds* quanto da pessoa que o "monta" como seu próprio universo ficcional.
 
+O conceito abre novos caminhos para pensar a Cronologia do ponto de vista dos fãs, embora o próprio autor aponte certos complicadores que deve ser levados em conta: preferências pessoais, tendências da cultura, a provável dominância de artefatos mais recentes em um universo, o consenso crítico sobre um artefato e as contribuições da comunidade de fãs que complicam a constelação do universo ficcional.
 
+---
 HEINZE, Rüdiger. “This Makes No Sense At All”: Heterarchy in Fictional Universes. in: Storyworlds: A Journal of Narrative Studies, Vol. 7, No. 2, Transmedial Worlds in Convergent Media Culture. University of Nebraska Press, 2015, pp. 75-91.
 
 *Outros pontos de interesse: definições de franquia narrativa (Scolari, Parody)

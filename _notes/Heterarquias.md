@@ -12,7 +12,9 @@ Mesmo que se mantenha uma cronologia oficial, é impossível controlar qual ser�
 
 A hierarquia da narrativa linear dá lugar, então à heterarquia, a relation of elements to one another when they are unranked or when they possess the potential for being ranked in a number of different ways” (CRUMLEY apud HEINZE, 2015, p. 84).
 
-**Cada novo elemento constitutivo afeta o universo ficcional e sua ordem heterárquica tanto de maneira objetiva (global) quanto em relação ao receptor e seu engajamento prévio com aquele universo**
+Heinze propõe ainda a diferença entre uma heterarquia global teórica, referente à totalidade do universo ficcional em dado momento do tempo, e a várias **heterarquias "locais"**, que dependem de cada receptor e se conhecimento de, e engajamento com, o universo.
+
+
 
 HEINZE, Rüdiger. “This Makes No Sense At All”: Heterarchy in Fictional Universes. in: Storyworlds: A Journal of Narrative Studies, Vol. 7, No. 2, Transmedial Worlds in Convergent Media Culture. University of Nebraska Press, 2015, pp. 75-91.
 

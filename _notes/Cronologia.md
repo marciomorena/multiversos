@@ -1,1 +1,1 @@
-# Cronologia
+Relação: [[Heterarquias]] 

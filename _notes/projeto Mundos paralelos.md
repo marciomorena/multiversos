@@ -1,3 +1,5 @@
+#broto 
+
 Bem-vindx.
 
 Meu nome é [[Márcio Moreira]] e sou doutorando em Comunicação na Universidade Federal do Ceará. Desde 2020, desenvolvo uma pesquisa sobre a construção de multiversos em quadrinhos de super-heróis.
@@ -13,5 +15,3 @@ Além disso, há o aspecto conceitual. Percebi que penso o texto como narrativa 
 Reunindo as duas demanas, decidi criar este [[Jardim digital]]. O espaço digital onde posso aprender em público, criando um banco de ideias e conceitos em vários estágios de desenvolvimento. Esm oposição ao quadro finalizado que se entende por tese, esta é uma [[Mesa de trabalho]]. Não vou me obrigar a postar textos concluídos, polidos, mas sementes que poderão (ou não) gerar frutos em minha pesquisa.
 
 Ainda não sei de que maneira o jardim será uma ferramenta metodológica ou apenas um laboratório. Mas, como o multiverso, ele é o cosmos onde posso registrar meus pensamentos díspares e vê-los lado a lado, contrafactuais e o que for. 
-
-#broto

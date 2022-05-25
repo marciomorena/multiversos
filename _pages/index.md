@@ -15,6 +15,7 @@ Notas serão categorizadas segundo seu desenvolvimento epistemológico: #semente
 
 ## Últimas atualizações
 [[Heterarquias]]
+
 ___
 *Quer contribuir com o projeto? Envie um pix de qualquer valor para marciomoreirasf@gmail.com.*
 

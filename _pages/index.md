@@ -15,6 +15,8 @@ Notas serão categorizadas segundo seu desenvolvimento epistemológico: #semente
 
 ## Últimas modificações
 - [[Jardim digital]]
+- [[Dissertação - Metaficção e quadrinhos]]
+- [[Neverwhen (Kidder)]]
 - [[Heterarquias]]
 
 ___

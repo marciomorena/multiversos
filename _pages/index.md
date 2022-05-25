@@ -15,6 +15,7 @@ Notas serão categorizadas segundo seu desenvolvimento epistemológico: #semente
 
 ## Últimas modificações
 [[Jardim digital]]
+
 [[Heterarquias]]
 
 ___

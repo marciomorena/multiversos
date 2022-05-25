@@ -20,5 +20,3 @@ Este jardim, então, busca uma nova maneira de pensar nossa relação com o conh
 [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 [The Way of the Gardener](https://wonderground.press/culture/the-way-of-the-gardener/?utm_source=pocket_mylist)
-
-*Outros pontos de interesse:

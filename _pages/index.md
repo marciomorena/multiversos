@@ -13,7 +13,8 @@ permalink: /
 
 Notas serão categorizadas segundo seu desenvolvimento epistemológico: #sementes são ideias em formação, #brotos são ensaios conceituais e #árvores são textos como aparecem na tese. 
 
-## Últimas atualizações
+## Últimas modificações
+[[Jardim digital]]
 [[Heterarquias]]
 
 ___

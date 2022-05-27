@@ -4,7 +4,7 @@ Bem-vindx.
 
 Meu nome é [[Márcio Moreira]] e sou doutorando em Comunicação na Universidade Federal do Ceará. Desde 2020, desenvolvo uma pesquisa sobre a construção de multiversos em quadrinhos de super-heróis.
 
-Em meu trabalho, compreendo a [[Cronologia]] dos quadrinhos Marvel e DC como exemplos de uma [[Rede de ficções]], um sistema capaz de se reorganizar segundo as circunstâncias sócio-históricas em que é publicado. A investigação é focada, portanto, nas relações entre as diferentes diegeses paralelas e os comportamentos emergentes que criados a partir destes encontros.
+Em meu trabalho, compreendo a [[Cronologia]] dos quadrinhos Marvel e DC como exemplos de uma [[Redes de ficção]], um sistema capaz de se reorganizar segundo as circunstâncias sócio-históricas em que é publicado. A investigação é focada, portanto, nas relações entre as diferentes diegeses paralelas e os comportamentos emergentes que criados a partir destes encontros.
 
 Durante a pesquisa, porém, duas coisas se fizeram claras:
 

@@ -15,7 +15,7 @@ Ecoando a ideia de [[Heterarquias]]:
 ## Características das redes de ficção
 **Propriedade
 
-Redes de ficção são proprietárias, pressupondo um contexto capitalista e um conceito de propriedade intelectual que circunscreve o sistema textual em questão. No caso dos multiversos, isso estabelece fronteiras clara entre o que seria "canônico" e as produções de fãs e demais representações não-oficiais dos universos ficcionais. A ontologia de comércio e IP empresta à rede um caráter duplo como uma forma de imaginário público e propriedade privada.
+Redes de ficção são proprietárias, pressupondo um contexto capitalista e um conceito de propriedade intelectual que circunscreve o sistema textual em questão. No caso dos multiversos, isso estabelece fronteiras clara entre o que seria "canônico" e as produções de fãs e demais representações não-oficiais dos universos ficcionais. A ontologia de comércio e IP empresta à rede um caráter duplo como forma de imaginário público e propriedade privada.
 
 
 

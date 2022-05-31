@@ -30,15 +30,13 @@ Ver também: [[Revisão (Hyman)]]
 **Persistência
 
 Um artefato (uma edição de quadrinhos, por exemplo) pode ser consumida por um período limitado de tempo, mas a rede de ficção perpassa este artefato e continua para além dele. Estas redes geram sentido a partir da ausência de final. Elas se desenrolam não em direção a uma conclusão, mas na continuação sem fechamento e - e, quando terminam, elas não costumam apresentar encerramento, mas exaustão.
+[inserir Bjorkan aqui]
 
-Esta é uma característica da narrativa seriada que remonta aos primeiros folhetins e periódicos europeus. Embora o contexto produtivo tenha se transformado, o princípio das franquias multimidiáticas é o mesmo dos jornais do século XIX: um trabalho criativo contínuo mantém os clientes fiéis ao produto. Hoje, isso significa 
+Esta é uma característica da narrativa seriada que remonta aos primeiros folhetins e periódicos europeus. Embora o contexto produtivo tenha se transformado, o princípio das franquias multimidiáticas é o mesmo dos jornais do século XIX: um trabalho criativo contínuo mantém os clientes fiéis ao produto. Hoje, isso significa capitalizar sobre este interesse na forma de artefatos novos e interconectados, como spinoffs, brinquedos, jogos etc.
+
+Para atingir a persistência, a rede deve, mais uma vez, manter características reconhecíveis ao mesmo tempo em que oferece novos atrativos. O familiar permite fácil acesso ao universo ficcional por parte de novos consumidores enquanto o inovador (plots ricos, causalidade determinada e ganchos) mantém sua atenção.
 
 
-. Twenty-first century media corporations, with capital and resources exponentially greater than the largest Victorian press, produce the majority of our most popular fictions. For these corporations, an ongoing creative work – particularly one without a predetermined end – presents the best of all possible profit models: once it has established reader or viewer interest, it can capitalize on that interest indefinitely, through the sale of new, connected artifacts and spinoffs to that reader or viewer.
-
-s. Media properties or icons, like mythical figures, have “immutable characteristics and an irreversible destiny” (Eco, "The Myth of Superman" 108) as branded properties; in a consumption culture, they carry stable meanings through their “object-code.” In modern capitalist culture, cultural meanings are maintained in different ways, but the cultural 42 icons are nonetheless analogous: these branded, constant icons have become nighmythological to us, familiar and ageless
-
-Predictability and timelessness allow easy entry into the text and make the text appealing to new, unconverted audience members. However, the goal of the fiction network is not only to gain readers but to maintain their relationship with the network, and to do so effectively requires richer plots, tighter causality, engaging serial narrative.
 
 **Expansão
 

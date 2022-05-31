@@ -19,11 +19,11 @@ Ecoando a ideia de [[Heterarquias]]:
 ## Características das redes de ficção
 **Propriedade
 
-Redes de ficção são proprietárias, pressupondo um contexto capitalista e um conceito de propriedade intelectual que circunscreve o sistema textual em questão. No caso dos multiversos, isso estabelece fronteiras clara entre o que seria "canônico" e as produções de fãs e demais representações não-oficiais dos universos ficcionais. 
+Redes de ficção são proprietárias, pressupondo um contexto capitalista e um conceito de propriedade intelectual que circunscreve o sistema textual em questão. No caso dos multiversos, isso estabelece fronteiras claras entre o que seria "canônico" e as produções de fãs e demais representações não-oficiais dos universos ficcionais. 
 
-A audiência entende a recepção da rede como uma transação e mesmo os fãs (que investem na rede como espaço de recombinação e criação e contribuem para sua persistência) compreendem que tem uma relação instável com os produtores. ==A ontologia de comércio e IP empresta à rede um caráter duplo como forma de imaginário público e propriedade privada, ou, em outros termos, a rede é ao mesmo tempo ficção (um sistema simbólico que apresenta um universo imaginário) e identidade de marca, ou *brand.*==
+A audiência entende a recepção da rede como uma transação e mesmo os fãs (que investem na rede como espaço de recombinação e criação e contribuem para sua persistência) compreendem que têm uma relação instável com os produtores. ==A ontologia de comércio e IP empresta à rede um caráter duplo como forma de imaginário público e propriedade privada, ou, em outros termos, a rede é ao mesmo tempo ficção (um sistema simbólico que apresenta um universo imaginário) e identidade de marca, ou *brand.*==
 
-Neste contexto, os quadrinhos são ao mesmo tempo bem de consumo e elocução. Para Craft, o universo ficcional apresentado por este artefato deve apresentar, enquanto marca, um "código-objeto" de significados culturais estáveis e, enquanto ficção, a fluidez de sentido natural de um  espaço contruído linguisticamente.
+Neste contexto, os quadrinhos são ao mesmo tempo bem de consumo e elocução. Para Craft, o universo ficcional apresentado por este artefato deve apresentar, enquanto marca, um "código-objeto" de significados culturais estáveis e, enquanto ficção, a fluidez de sentido natural de um  espaço construído linguisticamente.
 
 >Finally, the world is both a fictional world that the reader/viewer/player observes and a culturally constituted world in a system of consumption. The consumer within a fiction network understands both an imaginary space, or fiction, and a cultural space of distinction which he or she chooses to appropriate. (...)  as a consumer chooses to engage with the network not only with a discrete single purchase but as an ongoing investment, the network takes on an increasing meaning as a mark of identity distinction for a consumer within a material culture. 
 
@@ -39,14 +39,14 @@ Um artefato (uma edição de quadrinhos, por exemplo) pode ser consumida por um 
 
 Esta é uma característica da narrativa seriada que remonta aos primeiros folhetins e periódicos europeus. Embora o contexto produtivo tenha se transformado, o princípio das franquias multimidiáticas é o mesmo dos jornais do século XIX: um trabalho criativo contínuo mantém os clientes fiéis ao produto. Hoje, isso significa capitalizar sobre este interesse na forma de artefatos novos e interconectados, como spinoffs, brinquedos, jogos etc.
 
-Para atingir a persistência, a rede deve, mais uma vez, manter características reconhecíveis ao mesmo tempo em que oferece novos atrativos. O familiar permite fácil acesso ao universo ficcional por parte de novos consumidores enquanto o inovador (plots ricos, causalidade determinada e ganchos) mantém sua atenção.
+Para atingir a persistência, a rede deve, mais uma vez, manter características reconhecíveis ao mesmo tempo em que oferece novos atrativos. O familiar permite fácil acesso ao universo ficcional por parte de novos consumidores, enquanto o inovador (plots ricos, causalidade determinada e ganchos) mantém sua atenção.
 
 Este familiar pode se manifestar como simples conicidade: um grupo de cores, o formato de uma máscara, um par de óculos é suficiente para conectar uma narrativa visual à rede de ficção. Uma parte é o bastante para evocar o entendimento contextual do sistema como um todo.
 
 
 **Expansão
 
-==Uma rede de ficção é distribuída, ou expansiva: ela existe através de múltiplos artefatos ou "nodos"==. Mesmo redes homogêneas, como quadrinhos, se expandem em jogos, adaptações audiovisuais e outras mídias para manter o interesse contínuo do público (o que nos leva a questionar até mesmo sua condição homogênea). Artefatos tem um propósito de consumo (são unidades que podem ser empacotadas e vendidas), mas também podem ser produzidos fora de um contexto comercial.
+==Uma rede de ficção é distribuída, ou expansiva: ela existe através de múltiplos artefatos ou "nodos"==. Mesmo redes homogêneas, como quadrinhos, se expandem em jogos, adaptações audiovisuais e outras mídias para manter o interesse contínuo do público (o que nos leva a questionar até mesmo sua condição homogênea). Artefatos têm um propósito de consumo (são unidades que podem ser empacotadas e vendidas), mas também podem ser produzidos fora de um contexto comercial.
 
 ==Entre os muitos artefatos, existe um "código", ou convenção compartilhada==: ícones ou narremes (termo questionável), elementos cruciais para o estabelecimento de um espaço ficcional reconhecível. Em geral, estes elementos incorporam tanto o "código-objeto" da rede enquanto marca quanto um conjunto determinado de características narrativas; embora o artefato possa invocar a rede de ficção apenas com o "código-objeto", como no caso de produtos licenciados. Isso permite que uma rede incorpore uma variedade radical de artefatos, em mídias, formas ou interpretações.
 
@@ -59,7 +59,7 @@ Isso nos leva a pensar nos paratextos enquanto manifestações do 'código-objet
 
 A intertextualidade, neste caso, segue um continuum de coerência. No caso dos quadrinhos, ela pode aparecer de maneira indireta em comentários dos personagens ou detalhes do mundo ficcional, mas é comum que a intertextualidade se manifeste literalmente na forma de "notas do editor", de crossovers ou de eventos, que misturam narrativas em pontos de conjunção.
 
-Essa intertextualidade tem consequências para o texto, mas tabém para o público leitor, à medida que audiências se tornam familiarizadas e confortáveis com iterações da ficção que ao mesmo tempo se diferenciam e complementam umas às outras. Como apontado por Eco em seu trabalho sobre narrativas serializadas, ==o leitor ideal acumula conhecimentos do texto, mas também do mundo, das circunstâncias externas ao texto==.
+Essa intertextualidade tem consequências para o texto, mas também para o público leitor, à medida que audiências se tornam familiarizadas e confortáveis com iterações da ficção que ao mesmo tempo se diferenciam e complementam umas às outras. Como apontado por Eco em seu trabalho sobre narrativas serializadas, ==o leitor ideal acumula conhecimentos do texto, mas também do mundo, das circunstâncias externas ao texto==.
 
 A rede está em constante diálogo com esse leitor, como indica Craft:
 
@@ -72,10 +72,12 @@ Os fenômenos de persistência, expansão e conexão, no contexto das redes de f
 
 >A fiction network is not necessarily a form *ab ovo*. Often, a form begins displaying the behaviors of “fiction networking” as a phenomenon of scale. Emergence or complexity theory attempts to explain macrobehaviors that arise in large, distributed collections of independent entities: ant colonies, slime mold aggregations, or even cities.
 
-Quando persistência e expansão tiram a ficção do controle de um único autor ou grupo autoral - quando um agregado de hihstórias, seriados e adaptações é antigo o suficiente, ou vasto o suficiente, para mostrar sinais de intertextualidade sofisticada, ou uma consciência visível e negociação como parte constitutiva - ela passou por uma fase de transição, de agregado de textos a rede de ficção.
+Quando persistência e expansão tiram a ficção do controle de um único autor ou grupo autoral - quando um agregado de histórias, seriados e adaptações é antigo o suficiente, ou vasto o suficiente, para mostrar sinais de intertextualidade sofisticada, ou uma consciência visível e negociação como parte constitutiva - ela passou por uma fase de transição, de agregado de textos a rede de ficção.
 
 ==Nenhuma rede tem topologia igual, então esta transformação é imprecisa e imprevisível==. Redes de ficção tem comportamentos únicos e estes determinam o que ela é. Esta definição mais comportamental ou contextual traz nossa atenção ao caráter social da rede, uma forma textual diversa, caracterizada tanto por suas divergências quanto por suas semelhanças entre si.
 
+---
+CRAFT, Jason T. Fiction Networks: The Emergence of Proprietary, Persistent, Large Scale Popular Fiction. Tese de doutorado apresentada ao programa da University of Texas, Austin, 2004.
 
 
 

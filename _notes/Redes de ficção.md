@@ -55,7 +55,7 @@ Isso nos leva a pensar nos paratextos enquanto manifestações do 'código-objet
 
 ### Conexão
 
-=="Nodos" em uma rede de ficção possuem certo grau de autonomia narrativa, mas também são interdependentes no compartilhamento de informações com outros pontos.== A intertextualidade parece inevitável neste modo de produção: textos persistentes e tramas contínuas paralelas de uma rede irão, de maneiras diferentes, impactar umas às outras.
+==Nodos em uma rede de ficção possuem certo grau de autonomia narrativa, mas também são interdependentes no compartilhamento de informações com outros pontos.== A intertextualidade parece inevitável neste modo de produção: textos persistentes e tramas contínuas paralelas de uma rede irão, de maneiras diferentes, impactar umas às outras.
 
 A intertextualidade, neste caso, segue um continuum de coerência. No caso dos quadrinhos, ela pode aparecer de maneira indireta em comentários dos personagens ou detalhes do mundo ficcional, mas é comum que a intertextualidade se manifeste literalmente na forma de "notas do editor", de crossovers ou de eventos, que misturam narrativas em pontos de conjunção.
 
@@ -77,7 +77,7 @@ Quando persistência e expansão tiram a ficção do controle de um único autor
 ==Nenhuma rede tem topologia igual, então esta transformação é imprecisa e imprevisível==. Redes de ficção tem comportamentos únicos e estes determinam o que ela é. Esta definição mais comportamental ou contextual traz nossa atenção ao caráter social da rede, uma forma textual diversa, caracterizada tanto por suas divergências quanto por suas semelhanças entre si.
 
 ---
-CRAFT, Jason T. Fiction Networks: The Emergence of Proprietary, Persistent, Large Scale Popular Fiction. Tese de doutorado apresentada ao programa da University of Texas, Austin, 2004.
+CRAFT, Jason T. Fiction Networks: The Emergence of Proprietary, Persistent, Large Scale Popular Fiction. Tese de doutoramento em filosofia apresentada ao programa da University of Texas, Austin, 2004.
 
 
 

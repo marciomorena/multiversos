@@ -1,3 +1,5 @@
+#broto 
+
 Multiverso é o nome dado à estrutura de organização onde diferentes universos ficcionais são parte do mesmo sistema como mundos paralelos, existindo em ontologias distintas, mas ainda conectados. O conceito origial da física foi introduzido nos quadrinhos de super-heróis em 1961, na história [[Flash de dois mundos]].
 
 Duas décadas após o renascimento do gênero de super-heróis na década de 1960, a continuidade de ambas as editoras, ou o “desenvolvimento coerente e consistente dos personagens e de seu mundo fictício” (KUKKONEN, 2010, p.40), já havia se tornado um problema. Para lidar com as contradições, os quadrinhos de super-heróis recorreram a uma solução ontológica: seu mundo fictício tornou-se parte de um Multiverso maior, “onde a variedade de mundos narrativos mutuamente incompatíveis existiam como realidades paralelas” (idem, p.40).

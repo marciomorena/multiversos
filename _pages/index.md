@@ -14,11 +14,11 @@ permalink: /
 Notas serão categorizadas segundo seu desenvolvimento epistemológico: #sementes são ideias em formação, #brotos são ensaios conceituais e #árvores são textos como aparecem na tese. 
 
 ## Últimas modificações
+- [[Multiverso (HQ)]]
 - [[Redes de ficção]]
 - [[Jardim digital]]
 - [[Dissertação - Metaficção e quadrinhos]]
 - [[Neverwhen (Kidder)]]
-- [[Heterarquias]]
 
 ___
 *Quer contribuir com o projeto? Envie um pix de qualquer valor para marciomoreirasf@gmail.com.*
